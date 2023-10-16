@@ -20,3 +20,30 @@ This code appears is a Python script for a simple game using the Pygame library.
 8. Sound: The code incorporates sound effects, such as jumping and collision sounds, to enhance the gaming experience.
 
 Overall, the main game is a 2D platformer-style game. It includes features like character movement, obstacle avoidance, scoring, and game over conditions. 
+
+
+
+
+
+
+
+While Playing The Game:
+
+![Screenshot (205)](https://github.com/srinivaspayidi/windstream_runner/assets/134351153/1544a63f-1048-42d6-9119-4807d6256db8)
+
+
+![Screenshot (206)](https://github.com/srinivaspayidi/windstream_runner/assets/134351153/816e0752-8d41-47c4-862a-3455b4fb977c)
+
+
+![Screenshot (207)](https://github.com/srinivaspayidi/windstream_runner/assets/134351153/e2469c9e-cf8d-48d7-995c-95fb01b7ba5c)
+
+
+![Screenshot (208)](https://github.com/srinivaspayidi/windstream_runner/assets/134351153/779710f8-acfa-454b-ae84-cbacb08d7fb0)
+
+
+![Screenshot (209)](https://github.com/srinivaspayidi/windstream_runner/assets/134351153/733869ca-c002-4027-8608-537e9713a878)
+
+
+![Screenshot (210)](https://github.com/srinivaspayidi/windstream_runner/assets/134351153/3bcd9c45-3d50-4a60-9ac7-9b90216d21b5)
+
+
